@@ -51,3 +51,7 @@ nav{
     border: none;
     background: none;
 }
+td{
+    color: rgba(0, 0, 0, 0.418);
+    font-size: smaller;
+}
